@@ -10,16 +10,16 @@
 [![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/yuta17)
 [![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)](https://github.com/yuta17)
 
-### Infra
-
-[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/yuta17)
-
 ### Middleware
 
 [![](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://github.com/yuta17)
 [![](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)](https://github.com/yuta17)
 [![](https://img.shields.io/badge/-PostgreSQL-000?&style=flat?&logo=postgresql)](https://github.com/yuta17)
 [![](https://img.shields.io/badge/-Redis-000?style=flat&logo=redis)](https://github.com/yuta17)
+
+### Infra
+
+[![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/yuta17)
 
 ## Others
 
