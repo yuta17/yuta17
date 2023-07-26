@@ -5,11 +5,12 @@
 ## Skills
 
 ### Framework
-
-[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=ruby-on-rails)](https://github.com/yuta17)
-[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/yuta17)
-[![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/yuta17)
-[![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)](https://github.com/yuta17)
+| Name | Experience |
+| - | - |
+|[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=ruby-on-rails)](https://github.com/yuta17) | 8 years + |  
+|[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/yuta17) | 3 years + |
+|[![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/yuta17) | 0.5 years + |
+|[![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)](https://github.com/yuta17) | 0.5 years |
 
 ### Middleware
 
