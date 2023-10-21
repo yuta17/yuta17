@@ -6,10 +6,9 @@
 
 ### Framework
 
-[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=ruby-on-rails)](https://github.com/yuta17) 
-[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/yuta17)
+[![](https://img.shields.io/badge/-Rails-000?style=flat&logo=ruby-on-rails)](https://github.com/yuta17)
 [![](https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js)](https://github.com/yuta17)
-[![](https://img.shields.io/badge/-Flutter-000?style=flat&logo=Flutter)](https://github.com/yuta17)
+[![](https://img.shields.io/badge/-Nuxt.js-000?style=flat&logo=Nuxt.js)](https://github.com/yuta17)
 
 ### Middleware
 
@@ -21,7 +20,6 @@
 ### Infra
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/yuta17)
-[![](https://img.shields.io/badge/-Heroku-000?style=flat&logo=heroku)](https://github.com/yuta17)
 
 ## Others
 
