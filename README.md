@@ -25,5 +25,3 @@
 
 ![](https://komarev.com/ghpvc/?username=yuta17&color=green)
 [![Qiita contributions](https://qiita-badge.apiapi.app/s/hassan/contributions.svg)](http://qiita.com/hassan)
-
-[curriculum vitae (職務経歴書)](https://github.com/yuta17/cv_public)
