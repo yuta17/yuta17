@@ -20,8 +20,3 @@
 ### Infra
 
 [![](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazon-aws)](https://github.com/yuta17)
-
-## Others
-
-![](https://komarev.com/ghpvc/?username=yuta17&color=green)
-[![Qiita contributions](https://qiita-badge.apiapi.app/s/hassan/contributions.svg)](http://qiita.com/hassan)
